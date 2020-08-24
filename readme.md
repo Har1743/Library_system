@@ -27,4 +27,12 @@ It can help you in managing many ways :-
 
 ## How it works
 
+git clone https://github.com/Har1743/Library_system.git
 
+**Then first you have to setup a table in your own choice database and for that just run**  
+  
+`python3 database_former.py`  
+  
+**After this you can use the library system using**
+  
+`python3 library_system.py`
