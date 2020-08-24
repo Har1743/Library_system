@@ -23,4 +23,8 @@ It can help you in managing many ways :-
 * Return book
 * Re-issuing of book
 * Can show any student database.
+* Delete any student entry.
+
+## How it works
+
 
