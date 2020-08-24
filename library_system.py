@@ -55,7 +55,7 @@ while True:
             student_name_1 = str(input("Enter the student name : "))
             roll_no_1 = str(input("Enter the student roll no : "))
 
-            query_1 = "INSERT INTO data (STUDENT_NAME, ROLL_NO, BOOK_NO, DATE, FINE)" \
+            query_1 = "INSERT INTO data (STUDENT_NAME, ROLL_NO, BOOK_NO, DATE)" \
                       " VALUES (%s, %s, DEFAULT, DEFAULT)"
             val_1 = (student_name_1, roll_no_1)
             my_cursor.execute(query_1, val_1)
