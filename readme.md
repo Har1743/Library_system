@@ -25,6 +25,10 @@ It can help you in managing many ways :-
 * Can show any student database.
 * Delete any student entry.
 
+## Modules used
+
+**mysql.connector**
+
 ## How it works
 
 git clone https://github.com/Har1743/Library_system.git
@@ -36,3 +40,4 @@ git clone https://github.com/Har1743/Library_system.git
 **After this you can use the library system using**
   
 `python3 library_system.py`
+
