@@ -12,4 +12,15 @@ As Library consists of a large number of books so for that we also have to manag
 
 ## What is Library System
 
-Library System is an organised program which helps in managing of data related to students data and books  
+Library System is an organised **Command Line** and **Python based** program which helps in managing of data related to students data and books.  
+It is also **User friendly**.  
+It stores all the data in a mysql database and you can just choose or enter your choice what you want to perform it will help you to perform that action in a very systematic way.
+  
+It can help you in managing many ways :-  
+  
+* Add a new entry of student
+* Issuing of book
+* Return book
+* Re-issuing of book
+* Can show any student database.
+
